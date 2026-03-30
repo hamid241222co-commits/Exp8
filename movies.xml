@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="movies.xsl"?>
+
+
+<movies>
+    <movie>
+        <title>Animal</title>
+        <director>Sandeep Reddy Vanga</director>
+        <genre>Action</genre>
+        <year>2023</year>
+    </movie>
+
+    <movie>
+        <title>3 Idiots</title>
+        <director>Rajkumar Hirani</director>
+        <genre>Drama</genre>
+        <year>2009</year>
+    </movie>
+
+    <movie>
+        <title>Dhurandhar</title>
+        <director>Aditya dhar</director>
+        <genre>Action</genre>
+        <year>2025</year>
+    </movie>
+</movies>
